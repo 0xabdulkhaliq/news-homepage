@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
+  | Solution URL: | [NEWS HOMEPAGE 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://www.frontendmentor.io/solutions/news-homepage-accessible-bem-vanilla-css3-es6-hhKqq2TIDw) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/news-homepage/](https://0xabdulkhalid.github.io/news-homepage/) |
   |||
 
